@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheHumanDave -----> Dave or David
 - 👀 I’m interested in programming, math, guitar, Gym, video games, sports, Baltimore, Ravens, and Orioles.
-- 🌱 I’m currently learning JavaScript as well as Python.
-- 💞️ I’m looking to collaborate on anything really 
-- 📫 How to reach me (Through Slack David Beadenkopf)
+- 🌱 I’m currently learning JavaScript/React as well as Devops.
+- 💞️ I’m looking to collaborate on anything  
+- 📫 How to reach me (email: david.beadenkopf@gmail.com)
 
 <!---
 TheHumanDave/TheHumanDave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
