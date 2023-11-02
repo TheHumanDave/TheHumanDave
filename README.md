@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheHumanDave -----> Dave or David
-- 👀 I’m interested in programming, math, guitar, Gym, video games, sports, Baltimore, Ravens, and Orioles.
+- 👀 I’m interested in programming, math, guitar, Gym, video games, sports, Baltimore, Ravens,Orioles, and Warhammer.
 - 🌱 I’m currently learning JavaScript/React as well as Devops.
 - 💞️ I’m looking to collaborate on anything  
 - 📫 How to reach me (email: david.beadenkopf@gmail.com)
